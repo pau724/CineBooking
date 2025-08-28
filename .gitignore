@@ -1,0 +1,15 @@
+# Java / Eclipse
+*.class
+*.log
+.mtj.tmp/
+.project
+.classpath
+.settings/
+bin/
+target/
+
+# macOS
+.DS_Store
+
+# Build output
+/out/
