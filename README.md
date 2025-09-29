@@ -1,7 +1,7 @@
 # CineBooking 🎬
 
 A small, clean **Java console application** that simulates a cinema booking system.  
-Built to showcase **OOP**, basic **service architecture**, simple **input validation**, and an **admin flow** — ideal for a student portfolio (Werkstudent applications).
+Built to showcase **OOP**, basic **service architecture**, simple **input validation**, and an **admin flow**
 
 ## Features
 - View movie list (preloaded + admin can add new ones)
